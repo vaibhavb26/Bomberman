@@ -1,0 +1,10 @@
+BOMBERMAN: to run the code you need to run the file game.py in python 3. i.e. the command "python3 game.py" will start the game.
+controls:
+'q'-quit game
+'w'-move up
+'s'-move down
+'a'-move left
+'d'-move right
+'b'-plant the bomb at current position which will explode after 3 frames(any button pressed is considered as a frame) and the explosion lasts for 1 frame.
+no. of lives - 3
+ 
